@@ -5,7 +5,7 @@ public class pracctice{
     public static void main(String [] args){
         Scanner sc =new Scanner(System.in);
         System.out.println(2+3*5);
-        sb="2*5+2"
+        String sb="2*5+2";
 
         
       
