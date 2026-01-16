@@ -1,6 +1,6 @@
 package DynamicProgramming;
 
-public class L109_GoldMineInMaze {
+public class L09_GoldMineInMaze {
     public static void main(String[] args) {
         int[][] arr = {
                 { 34, 7, 21, 45, 2, 18, 39 },
